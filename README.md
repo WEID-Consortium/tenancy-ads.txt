@@ -10,7 +10,7 @@ This plugin enables tenats of the OIDplus System to publish own custom ads.txt f
 + [WTF Plugin](https://github.com/frdl/frdl-oidplus-wtf-plugin)
 
 ### Setup
-After copying the repository into the OIDplus root, configure it in your Admin System Config;
+After copying the userdata directory of this repository into the OIDplus root, configure it in your Admin System Config;
 ![Plugin Configuration](https://raw.githubusercontent.com/WEID-Consortium/tenancy-ads.txt/refs/heads/main/ads-txt-config.png)
 
 
